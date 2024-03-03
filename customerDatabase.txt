@@ -1,0 +1,12 @@
+user2,pass456,2,5,0
+user3,pass3,3,5,-2
+user4,pass4,4,5,0
+user5,pass5,5,10,300
+user6,pass6,6,5,0
+user8,pass8,8,5,0
+user10,pass10,9,7,200
+user17,ak17,10,5,0
+user50,password50,9,9,0
+ansha22,pass12,10,5,0
+ishaan,isha22,11,8,3500
+saagar,4,12,5,0
